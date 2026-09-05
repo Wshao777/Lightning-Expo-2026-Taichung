@@ -1,3 +1,54 @@
+# ⚡ AI × OPER × BOT Technology Expo 2026
+
+**展覽日期**：2026/09/08（二）～ 2026/09/13（日）  
+**展覽地點**：臺中國際會展中心（TICEC）  
+**主辦單位**：Lightning Empire / Wshao777  
+**展覽類型**：技術研究與概念驗證展示（SIMULATION ONLY / DEMO）
+
+---
+
+## 🎯 展覽核心
+
+> **AI 建議 → 人類確認 → 授權 BOT 執行**
+
+---
+
+## 📂 展覽內容分區
+
+| 展示區 | 內容說明 |
+|--------|----------|
+| **GPT** | GPT-5／GPT-5.6 Luna 等 AI 能力展示（公開技術介紹） |
+| **OPER AI** | 協作、治理、驗證架構 |
+| **xAI** | 公開可取得的 xAI／Grok 資訊與技術介紹 |
+| **Tesla** | Tesla AI／Optimus 公開資料與官方展示內容 |
+| **BOT** | 合法取得或自有的機器人 Demo |
+| **Multi-AI** | GPT／xAI／其他模型的比較與協作概念 |
+| **Disaster AI** | 風力／災害模擬系統 |
+| **Security** | 權限、Audit Log、人類確認機制 |
+
+---
+
+## 🔐 安全與個資保護
+
+- 所有展示均為模擬數據
+- 不直接控制第三方機器人或系統
+- 不儲存任何完整帳號或個人資料
+- 符合《個人資料保護法》規範
+
+---
+
+## 📞 聯絡窗口
+
+- **負責人**：Wshao777
+- **聯絡信箱**：Wshao777opscenter@gmail.com
+
+---
+
+## 📄 授權
+
+MIT License © 2026 Lightning Empire
+
+
 ## 投資與潛在客戶
 
 Lightning AI × OPER × BOT Technology Expo 2026
