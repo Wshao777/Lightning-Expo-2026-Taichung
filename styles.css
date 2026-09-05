@@ -1,0 +1,195 @@
+/* 全域設定 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #0b0e14;
+    color: #e0e6f0;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* 標頭 */
+header {
+    background: linear-gradient(135deg, #1a1f2e, #0f131c);
+    padding: 40px 0;
+    text-align: center;
+    border-bottom: 2px solid #f5a623;
+}
+
+header h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    color: #f5a623;
+    letter-spacing: 2px;
+}
+
+header .subtitle {
+    font-size: 1.2rem;
+    color: #a0b4c8;
+    margin-top: 8px;
+}
+
+header .date {
+    font-size: 1rem;
+    color: #7a8fa3;
+    margin-top: 4px;
+}
+
+/* 核心流程 */
+.core-flow {
+    background: #141a24;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.core-flow h2 {
+    color: #f5a623;
+    margin-bottom: 24px;
+    font-size: 1.8rem;
+}
+
+.flow-steps {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 8px 4px;
+}
+
+.step {
+    background: #1e2636;
+    padding: 12px 20px;
+    border-radius: 30px;
+    border: 1px solid #2e3a4e;
+    font-weight: 600;
+    color: #e0e6f0;
+}
+
+.arrow {
+    color: #f5a623;
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+
+/* 展示分區 */
+.exhibit-areas {
+    padding: 40px 0;
+    background: #0b0e14;
+}
+
+.exhibit-areas h2 {
+    text-align: center;
+    color: #f5a623;
+    margin-bottom: 30px;
+    font-size: 1.8rem;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 20px;
+}
+
+.card {
+    background: #141a24;
+    border: 1px solid #1e2636;
+    border-radius: 12px;
+    padding: 20px;
+    transition: transform 0.2s, border-color 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-4px);
+    border-color: #f5a623;
+}
+
+.card h3 {
+    color: #f5a623;
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+}
+
+.card p {
+    color: #a0b4c8;
+    font-size: 0.95rem;
+}
+
+/* 狀態標示 */
+.status-badge {
+    background: #141a24;
+    padding: 30px 0;
+    border-top: 1px solid #1e2636;
+    border-bottom: 1px solid #1e2636;
+}
+
+.badges {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+}
+
+.badge {
+    background: #1e2636;
+    color: #f5a623;
+    padding: 8px 20px;
+    border-radius: 30px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    border: 1px solid #2e3a4e;
+    letter-spacing: 0.5px;
+}
+
+/* 免責聲明 */
+.disclaimer {
+    background: #0b0e14;
+    padding: 30px 0;
+    text-align: center;
+}
+
+.disclaimer p {
+    color: #7a8fa3;
+    font-size: 0.95rem;
+    line-height: 1.8;
+}
+
+/* 頁尾 */
+footer {
+    background: #0a0d12;
+    padding: 24px 0;
+    text-align: center;
+    border-top: 1px solid #1a1f2e;
+}
+
+footer p {
+    color: #5a6f83;
+    font-size: 0.85rem;
+    margin: 4px 0;
+}
+
+/* RWD 響應式 */
+@media (max-width: 600px) {
+    header h1 {
+        font-size: 2.2rem;
+    }
+    .flow-steps {
+        flex-direction: column;
+        gap: 6px;
+    }
+    .arrow {
+        transform: rotate(90deg);
+    }
+    .grid {
+        grid-template-columns: 1fr;
+    }
+}
