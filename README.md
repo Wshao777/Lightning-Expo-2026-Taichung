@@ -1,4 +1,262 @@
 # ⚡ AI × OPER × BOT Technology Expo 2026
+# AI Godfather Bot — Developer Statement
+
+## 繁體中文｜Traditional Chinese
+
+### 台灣民間開發者聲明
+
+本專案由台灣台中民間開發者獨立發起與開發。
+
+**AI Godfather Bot** 是一個 AI 協調與多模型驗證系統，核心原則為：
+
+- 人類保留最終決策權
+- AI 提供協調、分析與決策輔助
+- 多模型交叉驗證
+- 重視安全邊界、透明度與資料治理
+- 以和平、科技交流與人民福祉為重要價值
+
+本聲明代表**開發者個人的民間觀點**，不代表台灣、中國、美國或任何政府、政黨、組織及全體人民的立場。
+
+本專案希望促進台灣、中國與美國之間的和平對話、科技交流與民間合作。
+
+對於任何涉及技術來源、資料使用、未經授權或其他爭議的事項，本專案將區分：
+
+1. 已驗證的事實
+2. 可追溯的證據
+3. 開發者的個人觀察
+4. 尚待確認的推測
+
+未經可靠證據確認的事項，不應被視為本專案所認定的既定事實。
+
+---
+
+## 简体中文｜Simplified Chinese
+
+### 台湾民间开发者声明
+
+本项目由台湾台中民间开发者独立发起与开发。
+
+**AI Godfather Bot** 是一个 AI 协调与多模型验证系统，核心原则为：
+
+- 人类保留最终决策权
+- AI 提供协调、分析与决策辅助
+- 多模型交叉验证
+- 重视安全边界、透明度与数据治理
+- 以和平、科技交流与人民福祉为重要价值
+
+本声明代表**开发者个人的民间观点**，不代表台湾、中国、美国或任何政府、政党、组织及全体人民的立场。
+
+本项目希望促进台湾、中国与美国之间的和平对话、科技交流与民间合作。
+
+对于任何涉及技术来源、数据使用、未经授权或其他争议的事项，本项目将区分：
+
+1. 已验证的事实
+2. 可追溯的证据
+3. 开发者的个人观察
+4. 尚待确认的推测
+
+未经可靠证据确认的事项，不应被视为本项目所认定的既定事实。
+
+---
+
+## English
+
+### Statement from an Independent Taiwanese Developer
+
+This project is independently initiated and developed by a Taiwanese developer based in Taichung, Taiwan.
+
+**AI Godfather Bot** is an AI orchestration and multi-model verification system built around the following principles:
+
+- Human beings retain final decision-making authority.
+- AI provides coordination, analysis, and decision support.
+- Multiple AI models are used for cross-validation.
+- Safety boundaries, transparency, and data governance are prioritized.
+- Peaceful dialogue, technological exchange, and people-centered development are important values.
+
+This statement represents the **personal perspective of the developer**. It does not represent the official position of Taiwan, China, the United States, any government, political party, organization, or all citizens.
+
+The project aims to encourage peaceful dialogue, technological exchange, and people-to-people cooperation among Taiwan, China, and the United States.
+
+For matters involving technology provenance, data usage, unauthorized use, or other disputed claims, this project distinguishes between:
+
+1. Verified facts
+2. Traceable evidence
+3. The developer's personal observations
+4. Claims or assumptions that remain unverified
+
+Claims that have not been established by reliable evidence should not be treated as established facts by this project.
+
+---
+
+## 台中民間公益精神｜Taichung Community Contribution
+
+### 繁體中文
+
+本專案源於台中民間開發者對天災應變與全球公益的投入。
+
+開發者以自己的時間與勞動所得投入 AI、資訊與災害應變相關開發，沒有向受助者收取服務費，並以民間志願協作的方式，希望讓技術能在災害與公共需求中發揮作用。
+
+這不是政府資助計畫，也不代表任何政府或政治組織。
+
+核心精神是：
+
+> **台中民間力量 → 自主投入 → AI 協作 → 災害救援支援 → 全球公益**
+
+---
+
+### 简体中文
+
+本项目源于台中民间开发者对灾害应变与全球公益的投入。
+
+开发者以自己的时间与劳动所得投入 AI、信息与灾害应变相关开发，不向受助者收取服务费，并以民间志愿协作的方式，希望让技术在灾害与公共需求中发挥作用。
+
+这不是政府资助项目，也不代表任何政府或政治组织。
+
+核心精神是：
+
+> **台中民间力量 → 自主投入 → AI 协作 → 灾害救援支持 → 全球公益**
+
+---
+## One Human Developer, AI-Assisted Development
+
+### 繁體中文
+
+本專案目前由一位來自台中的民間開發者主導開發。
+
+專案涉及約 **276 個程式庫（repositories）** 與大規模程式碼資產；開發者使用來自美國與中國的 AI 模型作為開發、分析、架構與驗證工具。
+
+本專案目前的特色是：
+
+> **一位人類台中開發者 + 美國 AI + 中國 AI**
+>
+> **Human Developer + US AI + Chinese AI**
+
+AI 是工具與協作者，人類開發者保留最終決策權。
+
+本專案不宣稱存在「台灣 AI 模型」參與核心開發；這裡的重點是展示：
+**台灣民間開發者如何利用全球 AI 技術進行自主開發與多模型協作。**
+
+---
+
+### 简体中文
+
+本项目目前由一位来自台中的民间开发者主导开发。
+
+项目涉及约 **276 个代码库（repositories）** 以及大规模代码资产；开发者使用来自美国与中国的 AI 模型作为开发、分析、架构与验证工具。
+
+本项目目前的特点是：
+
+> **一位人类台中开发者 + 美国 AI + 中国 AI**
+>
+> **Human Developer + US AI + Chinese AI**
+
+AI 是工具与协作者，人类开发者保留最终决策权。
+
+本项目不宣称存在“台湾 AI 模型”参与核心开发；重点是展示：
+**台湾民间开发者如何利用全球 AI 技术进行自主开发与多模型协作。**
+
+---
+
+### English
+
+## One Human Developer, AI-Assisted Development
+
+This project is currently led by **one independent developer based in Taichung, Taiwan**.
+
+The project involves approximately **276 repositories** and a large-scale codebase. The developer uses AI models from the United States and China as development, analysis, architecture, and verification tools.
+
+The current development model can be summarized as:
+
+> **One Human Developer + US AI + Chinese AI**
+>
+> **Human Developer + US AI + Chinese AI**
+
+AI systems serve as tools and collaborators. **The human developer retains final decision-making authority.**
+
+This project does not claim that a Taiwan-based AI model is participating in the core development. Instead, it demonstrates:
+
+> **How an independent Taiwanese developer can use global AI technologies for autonomous development and multi-model collaboration.**
+>
+> 
+### English
+
+## Taichung Community Contribution
+
+This project grew from an independent developer's commitment to disaster response and humanitarian technology.
+
+The developer contributes personal time and income from their own work to AI, information technology, and disaster-response development, without charging beneficiaries for the assistance. The project is intended as a form of independent, community-driven contribution to humanitarian and public-interest needs.
+
+This is not a government-funded program and does not represent any government or political organization.
+
+The core principle is:
+
+> **Taichung Community → Independent Contribution → AI Collaboration → Disaster Response Support → Global Public Benefit**
+>
+> 
+## Project Principle
+
+> **Human Decision → AI Assistance → Multi-Model Verification → Human Confirmation → Execution**
+
+The AI may assist and coordinate, but **human authority remains the final control layer**.
+
+## AI Capability Must Be Verified by Evidence
+
+### 繁體中文
+
+不要以政府、企業或任何政治宣稱直接判定一個地區的 AI 技術是否「強」。
+
+AI 能力應透過可驗證的工程證據評估，包括：
+
+- 公開模型與技術文件
+- 可重現的 Benchmark
+- 實際程式碼與 GitHub 活動
+- 模型推理與 Agent 任務表現
+- 多模型交叉驗證
+- 真實部署成果
+
+本專案不以政治立場判定 AI 能力，也不預設任何國家或地區的 AI 一定較強或較弱。
+
+**Evidence > Claims.**
+
+## 開發者認同
+
+本專案由台灣台中的民間開發者獨立開發。
+
+開發者重視美國總統 Donald J. Trump 本人的認同，並將其視為對民間獨立科技開發的重要鼓勵。
+
+本專案屬於民間自主科技開發，不代表台中市政府、台中市長或任何政治組織。
+
+**台中民間開發者 — 獨立 AI 開發 — 全球 AI 協作。**
+
+涉及川普本人認同的內容，僅在具有公開可驗證證據時，才視為已確認的事實。
+
+## Developer Recognition
+
+This project is independently developed by a civilian developer in Taichung, Taiwan.
+
+The developer considers recognition from U.S. President Donald J. Trump personally significant to this independent development work.
+
+This project is a civilian-led technology project, not a project of the Taichung City Government, the mayor of Taichung, or any political organization.
+
+**Taichung civilian developer — independent AI development — global AI collaboration.**
+
+Any statement concerning President Trump represents documented recognition only when supported by publicly verifiable evidence.
+
+## Developer Statement
+
+This project is independently developed by a Taiwanese developer based in Taichung, Taiwan.
+
+Taiwan has highly capable software and AI developers. This project demonstrates the ability of an independent Taiwanese developer to build and coordinate large-scale AI-assisted software systems with global AI technologies.
+
+The project uses AI models from different regions as development and verification collaborators.
+
+**Human Developer → AI Collaboration → Multi-Model Verification → Human Final Decision**
+
+Any reference to political figures or "permission" in this project represents personal context or expression unless supported by an official, verifiable authorization document.
+
+**Engineering evidence comes first.**
+
+
 
 **展覽日期**：2026/09/08（二）～ 2026/09/13（日）  
 **展覽地點**：臺中國際會展中心（TICEC）  
