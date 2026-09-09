@@ -1,4 +1,714 @@
+LICENSE、開發歷程與 AI 開發者聲明
+
+Lightning Expo 2026 Taichung
+
+Project: Lightning Expo 2026 Taichung
+Development Start: 2025-04-25
+Repository: "Wshao777/Lightning-Expo-2026-Taichung"
+
+---
+
+1. 專案開發聲明
+
+本專案自 2025-04-25 起進行開發、研究、設計、測試及文件整理。
+
+本專案由專案作者／維護者主導，並可使用 GPT、AI 及其他軟體工具作為研究與開發輔助工具。
+
+AI 工具的使用，不代表 AI 服務提供者成為本專案的所有人、發證機關或法律上的共同作者。
+
+---
+
+2. GPT / AI 開發工具聲明
+
+本專案開發過程中使用 GPT / AI 類模型作為開發輔助工具，包括但不限於：
+
+- 程式設計與程式碼分析
+- 除錯
+- 系統架構討論
+- 文件整理
+- 技術研究
+- 測試案例
+- 安全性分析
+- 資料整理
+- 專案規劃
+
+GPT / AI 在本專案中的角色為工具及技術輔助。
+
+本專案不主張 GPT、OpenAI 或其他 AI 公司因此成為本專案的發證機關。
+
+---
+
+3. 關於「OPER」的專案角色
+
+如本專案使用 OPER / oper 作為專案名稱、操作員名稱、開發代號或作者識別名稱，其具體身分應以 Repository 的 Git 紀錄、作者資訊、提交簽名及其他可驗證資料為準。
+
+本文件不以單純文字聲明取代身分驗證。
+
+如需要證明特定帳號或人員確實進行過某次開發，可以使用：
+
+- Git commit history
+- GitHub 帳號紀錄
+- GPG / SSH commit signing
+- Release / Tag
+- 開發文件
+- 原始檔案時間紀錄
+- 其他可驗證的開發紀錄
+
+---
+
+4. 關於台中開發地與專案地域資訊
+
+本專案名稱包含 Taichung，如專案作者希望公開表示本專案與台灣台中具有開發、展示、活動或其他地域關聯，應在 README、AUTHORS、CONTRIBUTORS 或專案文件中說明。
+
+地域資訊與軟體 LICENSE 是不同事項。
+
+"LICENSE" 本身不負責證明：
+
+- 出生地；
+- 國籍；
+- 居住地；
+- 開發者所在地；
+- 個人身分；
+- 開發者本人是否位於台中。
+
+如需正式證明，應使用適當的身分或官方資料。
+
+---
+
+5. 原創與非抄襲聲明
+
+本專案對自身原創程式碼、文件及其他創作內容，依適用著作權法律主張相應權利。
+
+本專案不應將「使用 GPT / AI」直接等同於抄襲，也不應將「使用開源套件」直接等同於抄襲。
+
+對於任何涉嫌抄襲的具體指控，應比較：
+
+1. 原始作品；
+2. 發布時間；
+3. Git commit history；
+4. 程式碼相似部分；
+5. 授權條款；
+6. 第三方來源；
+7. 實際創作及修改紀錄。
+
+如存在第三方程式碼，應依其原始授權條款進行 Attribution / License Notice。
+
+---
+
+6. LICENSE 與證照的區別
+
+本專案特別區分：
+
 LICENSE
+
+"LICENSE" 是軟體授權文件，用於說明他人可以如何使用、修改、複製及散布本專案程式碼。
+
+證照／許可
+
+政府機關、認證機構或其他具有權限之機構所核發的證照、許可或認證，具有不同的法律及行政性質。
+
+因此：
+
+«LICENSE ≠ 政府證照 ≠ 身分證明 ≠ GPT 開發證明»
+
+三者不應混為一談。
+
+---
+
+7. 證照真實性
+
+本專案所涉及之證照、許可或資格文件，如有公開保存，其真實性應透過：
+
+- 原始發證機關；
+- 正式證照編號；
+- 核發日期；
+- 有效期限；
+- 官方查驗系統；
+- 官方公開資料；
+
+進行確認。
+
+GitHub Repository 所保存的 PDF、圖片或 Markdown 文件，只是公開保存與說明資料。
+
+在沒有官方查驗資料的情況下，本專案不會自行把一份文件宣稱為政府正式證照。
+
+---
+
+8. 關於媒體或第三方的「仿冒」說法
+
+若第三方或媒體對本專案提出「仿冒」、「偽造」、「抄襲」或「沒有證照」等說法，本專案主張應以可驗證的原始資料進行查核。
+
+單一新聞報導、網路截圖、社群留言或 AI 回應本身，都不應被視為證照真偽的最終法律判定。
+
+如有爭議，應要求提出：
+
+- 具體文件；
+- 具體證照編號；
+- 發證機關；
+- 具體涉嫌不實之處；
+- 官方查驗結果。
+
+---
+
+9. AI 與開發者的關係
+
+本專案採取以下原則：
+
+«人負責專案，AI 協助開發。»
+
+GPT / AI 可以協助產生或分析內容，但最終採用哪些程式碼、架構、文件及設計，由專案作者／維護者決定。
+
+因此，使用 GPT 開發本專案，不代表本專案是由 GPT 自主成立或由 AI 公司所有。
+
+---
+
+10. 開發時間線
+
+日期| 事件
+2025-04-25| 專案開發起始日期
+2025 起| 持續進行程式、架構、文件及研究工作
+2026| 持續進行 Lightning Expo 2026 Taichung 相關開發與文件整理
+2026-09-09| 公開整理 LICENSE、AI 開發及文件查驗聲明
+
+---
+
+11. 文件完整性
+
+如需要確認 Repository 中某個文件是否與指定原始文件一致，可以提供 SHA-256：
+
+SHA-256:
+[填入實際 SHA-256]
+
+SHA-256 可以確認檔案內容是否遭到修改，但不能單獨證明文件的發證來源。
+
+---
+
+12. 最終立場
+
+本專案的公開立場如下：
+
+本專案自 2025-04-25 起進行開發，GPT / AI 可作為開發與研究輔助工具。
+
+AI 工具本身不是本專案的發證機關，也不因協助開發而自動成為專案所有人。
+
+本專案的 LICENSE 用於程式碼授權；證照、許可及其他資格文件則應由其原始發證機關及正式查驗資料確認。
+
+任何關於「抄襲」、「仿冒」、「沒有證照」或其他事實的爭議，都應以可驗證的原始資料、版本紀錄及正式查驗結果為依據。
+
+---
+
+13. 核心原則
+
+«開發有紀錄、來源可追溯、授權有依據、證照可查驗、AI 是工具、人是最終決策者。»
+
+
+Copyright (c) 2026 Lightning Empire (Lightning-Expo-2026-Taichung)
+
+木兰宽松许可证, 第2版
+Mulan Permissive Software License，Version 2
+
+您对“软件”的复制、使用、修改及分发受木兰宽松许可证第2版条款的约束，详情请见：
+https://license.coscl.org.cn/MulanPSL2
+
+---
+
+木兰宽松许可证, 第2版
+
+1. 定义
+
+1.1 “软件” 是指由著作权人授权许可的，以源代码或可执行文件形式提供的计算机程序，以及其相关文档。
+
+1.2 “著作权人” 是指拥有“软件”著作权的自然人、法人或其他组织。
+
+1.3 “贡献” 是指任何“软件”的修改、增补或衍生作品，以及向“软件”提交的代码或文档。
+
+1.4 “贡献者” 是指提交“贡献”的“著作权人”或经其授权的个人或实体。
+
+2. 授权内容
+
+2.1 在遵守本许可证条款的前提下，“著作权人”授予您一项全球性的、免费的、不可撤销的、非独占的、可再许可的（仅限于本许可证所允许的范围）版权许可，您可以：
+
+   (a) 复制、使用、修改、分发“软件”及其“贡献”；
+   (b) 将“软件”与他人共同使用或单独使用；
+   (c) 将“软件”用于商业目的。
+
+2.2 本许可证不授予您使用“著作权人”或其关联方的商标、服务标志或产品名称的权利。
+
+3. 分发条件
+
+您分发“软件”或其“贡献”时，必须满足以下条件：
+
+   (a) 保留“软件”中的版权声明、本许可证文本及免责声明；
+   (b) 如果“软件”中包含了专利许可声明，您必须保留该声明；
+   (c) 如果您对“软件”进行了修改，您必须在修改后的文件中声明您进行了修改；
+   (d) 如果您以可执行文件形式分发“软件”，您必须在分发时同时提供源代码，或者提供获取源代码的有效途径；
+   (e) 您分发的“软件”必须受本许可证的约束，您不得对本许可证附加任何额外的限制。
+
+4. 免责声明
+
+“软件”按“现状”提供，不附带任何明示或暗示的保证，包括但不限于适销性、特定用途适用性和非侵权性的保证。在任何情况下，“著作权人”或“贡献者”均不对因使用“软件”而导致的任何直接、间接、附带、特殊、惩罚性或后果性损失承担责任，即使已被告知此类损失的可能性。
+
+5. 法律适用与争议解决
+
+本许可证的解释和适用，以及因本许可证引起的或与之相关的任何争议，均应适用中华人民共和国法律，并由中华人民共和国法院管辖。
+
+---
+
+（本许可证以中文版为准，英文版仅为参考译文。）
+
+LICENSE、開發歷程與證照真實性說明
+
+Lightning Expo 2026 Taichung
+
+Project: Lightning Expo 2026 Taichung
+Development Start: 2025-04-25
+Repository: "Wshao777/Lightning-Expo-2026-Taichung"
+
+---
+
+1. 文件目的
+
+本文件用於說明本專案之：
+
+- 開發起始時間
+- 軟體著作權與授權
+- AI / GPT 輔助開發紀錄
+- 證照、許可及相關文件之查驗原則
+- 公開文件之來源與完整性
+
+本文件不是政府機關、認證機構或其他第三方發證機關所核發之證照。
+
+---
+
+2. 開發歷程
+
+本專案自 2025-04-25 起進行開發、研究、設計、文件整理及相關驗證工作。
+
+自開發開始至今，專案內容可能經歷多次：
+
+- 程式碼修改
+- 系統架構調整
+- 文件更新
+- 安全性檢查
+- 展覽規劃
+- AI 輔助分析
+- 測試與驗證
+- Git / GitHub 版本管理
+
+因此，GitHub Repository 中的最新版本代表目前公開版本，不應單獨視為完整的歷史開發紀錄。
+
+如需確認特定時間點的開發內容，應以 Git commit history、tag、release 或其他可驗證的版本紀錄為準。
+
+---
+
+3. AI / GPT 輔助開發聲明
+
+本專案開發過程中可能使用 AI / GPT 類工具協助進行：
+
+- 程式碼分析
+- 除錯建議
+- 文件撰寫
+- 架構討論
+- 測試案例設計
+- 安全性檢查
+- 資料整理
+- 技術研究與文字整理
+
+AI 工具屬於開發輔助工具。
+
+AI / GPT 的使用不代表 OpenAI、GPT 或其他 AI 服務提供者：
+
+1. 為本專案之發證機關；
+2. 為本專案背書；
+3. 核發本專案之政府證照；
+4. 認證本專案為官方產品；
+5. 對本專案之法律資格作出認定。
+
+最終的程式碼、文件、發布內容及相關決策，應由專案作者／維護者負責審核與確認。
+
+---
+
+4. 軟體 LICENSE
+
+本 Repository 的 "LICENSE" 文件用於規範本專案程式碼的著作權及使用條件。
+
+軟體 LICENSE 不等同於政府證照、產品認證、展覽許可或其他行政許可。
+
+使用者在使用、修改、複製或散布本專案時，應同時遵守：
+
+- 本專案 LICENSE；
+- 第三方套件的原始授權條款；
+- 適用的著作權法；
+- 適用的商標法；
+- 適用的個人資料及資訊安全法規；
+- 其他適用法律及契約。
+
+---
+
+5. 證照與許可文件
+
+本專案所涉及之證照、許可或其他資格文件，如有公開保存，應以原始發證機關所核發之正式文件及官方查驗資料為最終依據。
+
+GitHub Repository 中的：
+
+- PDF
+- 掃描檔
+- 圖片
+- 截圖
+- Markdown 說明
+- JSON / YAML 資料
+
+均屬公開保存或說明用途。
+
+上述檔案本身不取代原始發證機關之正式證照。
+
+---
+
+6. 真實性查驗原則
+
+對於任何證照或許可文件，其真實性應透過下列資訊進行核對：
+
+欄位| 說明
+文件名稱| 正式文件名稱
+發證機關| 原始核發機關
+證照編號| 正式證號／許可號碼
+核發日期| 原始核發日期
+有效期限| 如有
+官方查驗方式| 發證機關提供之查驗方式
+官方網址| 如有
+Repository 檔案| GitHub 保存位置
+文件雜湊| 如適用，可使用 SHA-256
+
+任何尚未經發證機關確認的資料，不應由本專案自行宣稱為官方認證。
+
+---
+
+7. 關於「仿冒品」或「沒有證照」之說法
+
+對於第三方、媒體或社群所提出的「仿冒」、「偽造」、「沒有證照」等說法，本專案主張應以可驗證的原始資料及正式查驗結果為依據。
+
+如對相關文件之真實性存在疑義，建議依下列順序查核：
+
+1. 查閱原始文件；
+2. 核對發證機關；
+3. 核對證照／許可編號；
+4. 核對核發日期；
+5. 核對有效期限；
+6. 使用官方查驗管道；
+7. 必要時向原始發證機關提出正式查詢。
+
+本 Repository 不以單一媒體報導、社群留言或網路截圖作為證照真偽的最終判定依據。
+
+---
+
+8. 文件完整性
+
+如需證明 GitHub 中保存的文件與某一原始檔案完全相同，可以保存該檔案之 SHA-256：
+
+SHA-256:
+[請填入實際 SHA-256]
+
+SHA-256 可以用來確認檔案內容是否遭到修改，但：
+
+«SHA-256 本身不能證明文件是由政府機關或特定機構核發。»
+
+文件來源仍應由原始發證機關或其他可驗證來源確認。
+
+---
+
+9. 關於 GPT / AI 與證照的界線
+
+本專案特此說明：
+
+GPT / AI 協助開發 ≠ GPT / AI 核發證照。
+
+AI 可以協助：
+
+- 撰寫程式；
+- 分析資料；
+- 建立文件；
+- 進行技術研究；
+- 協助測試；
+- 協助整理證照資料。
+
+但任何政府證照、行政許可、產品認證或第三方資格，均應由具有相應權限的正式機構核發。
+
+因此，本專案不會以「使用 GPT」作為證照真實性的證明。
+
+---
+
+10. 公開查驗原則
+
+本專案歡迎對文件及證照資料進行合法、合理及可驗證的查核。
+
+如第三方對文件真實性提出疑問，應優先提供：
+
+- 文件名稱；
+- 文件編號；
+- 發證機關；
+- 具體疑義；
+- 官方查驗結果；
+
+而不是僅依文件外觀或網路轉述作出結論。
+
+---
+
+11. 責任聲明
+
+本文件的目的為增加專案資訊透明度。
+
+本文件：
+
+- 不取代任何正式證照；
+- 不取代政府核准文件；
+- 不取代第三方認證；
+- 不構成法律意見；
+- 不代表任何政府機關背書；
+- 不代表 OpenAI、GPT 或其他 AI 公司背書。
+
+所有證照及許可之最終效力，均應以其原始發證機關及適用法律為準。
+
+---
+
+12. 版本紀錄
+
+日期| 版本| 說明
+2025-04-25| Project Start| 專案開發起始日期
+2026-09-09| 1.0| 建立公開授權、開發歷程及證照查驗聲明
+
+---
+
+13. 最終聲明
+
+本專案自 2025-04-25 起持續進行開發與文件整理。
+
+專案所使用之軟體授權、第三方授權、證照及許可文件應分別依其原始來源及適用規範進行確認。
+
+任何「證照真實」的主張，均應以可驗證的原始文件及發證機關資料為依據，而非以 AI、GPT、GitHub 或單一媒體報導作為證明。
+
+本文件的核心原則為：
+
+«來源可追溯、文件可查驗、版本可確認、授權可辨識。»
+
+# Google 官方認證專業清單
+
+## Google Cloud 基礎與入門 (Foundational & Associate)
+- Cloud Digital Leader
+- Associate Cloud Engineer
+
+## Google Cloud 專業級認證 (Professional Certifications)
+- Professional Cloud Architect
+- Professional Data Engineer
+- Professional Cloud DevOps Engineer
+- Professional Cloud Security Engineer
+- Professional Cloud Network Engineer
+- Professional Cloud Developer
+- Professional Machine Learning Engineer
+- Professional Cloud Database Engineer
+- Professional Workspace Administrator
+
+## Google 專業職能證照 (Google Career Certificates)
+- Google Data Analytics Certificate
+- Google Advanced Data Analytics Certificate
+- Google Cybersecurity Certificate
+- Google IT Support Certificate
+- Google IT Automation with Python Certificate
+- Google Project Management Certificate
+- Google UX Design Certificate
+- Google Business Intelligence Certificate
+
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
+
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
+
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
+
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
+
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (an example is provided in the Appendix below).
+
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
+
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to Licensor for inclusion in the Work by the copyright owner
+      or by an individual or Legal Entity authorized to submit on behalf of
+      the copyright owner. For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to the Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control systems,
+      and issue tracking systems that are managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work, but
+      excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
+
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
+
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
+
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by such Contributor that are necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      with the Work to which such Contribution(s) was submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
+      or a Contribution incorporated within the Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License for that Work shall terminate
+      as of the date such litigation is filed.
+
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
+
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
+
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
+
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
+
+      (d) If the Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works that You distribute must
+          include a readable copy of the attribution notices contained
+          within such NOTICE file, excluding those notices that do not
+          pertain to any part of the Derivative Works, in at least one
+          of the following places: within a NOTICE text file distributed
+          as part of the Derivative Works; within the Source form or
+          documentation, if provided along with the Derivative Works; or,
+          within a display generated by the Derivative Works, if and
+          wherever such third-party notices normally appear. The contents
+          of the NOTICE file are for informational purposes only and
+          do not modify the License. You may add Your own attribution
+          notices within Derivative Works that You distribute, alongside
+          or as an addendum to the NOTICE text from the Work, provided
+          that such additional attribution notices cannot be construed
+          as modifying the License.
+
+      You may add Your own copyright statement to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications, or
+      for any such Derivative Works as a whole, provided Your use,
+      reproduction, and distribution of the Work otherwise complies with
+      the conditions stated in this License.
+
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted for inclusion in the Work
+      by You to the Licensor shall be under the terms and conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement you may have executed
+      with Licensor regarding such Contributions.
+
+   6. Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor,
+      except as required for reasonable and customary use in describing the
+      origin of the Work and reproducing the content of the NOTICE file.
+
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or conditions
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+      PARTICULAR PURPOSE. You are solely responsible for determining the
+      appropriateness of using or redistributing the Work and assume any
+      risks associated with Your exercise of permissions under this License.
+
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or exemplary damages of any character arising as a
+      result of this License or out of the use or inability to use the
+      Work (including but not limited to damages for loss of goodwill,
+      work stoppage, computer failure or malfunction, or any and all
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
+
+   9. Accepting Warranty or Additional Liability. While redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
+      and charge a fee for, acceptance of support, warranty, indemnity,
+      or other liability obligations and/or rights consistent with this
+      License. However, in accepting such obligations, You may act only
+      on Your own behalf and on Your sole responsibility, not on behalf
+      of any other Contributor, and only if You agree to indemnify,
+      defend, and hold each Contributor harmless for any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
+
+   END OF TERMS AND CONDITIONS
+
+   Copyright 2026 Wshao777 / Lightning_AI_Full Contributors
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+
 
 MIT License
 
