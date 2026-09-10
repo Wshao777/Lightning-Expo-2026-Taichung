@@ -1,3 +1,83 @@
+# CIVIL_TECH_EXCHANGE_STATEMENT.md
+# 民間技術交流邊界聲明 / Civil Tech Exchange Boundary Statement
+# Заявление о границах гражданского технического обмена
+
+適用範圍：Wshao777、本專案、相關倉庫、文件、程式碼、圖片、Markdown、模擬與展示。  
+日期 / Date / Дата：2026-09-10
+
+---
+
+## 繁體中文
+
+本人 Wshao777 聲明：
+
+1. 本人為民間個人開發者，不代表任何政府、政黨或政權。
+2. 民間開發不應干擾政府外交。本人不介入、不評論、不影響任何政府之外交事務。
+3. 本人所選擇進行網路技術交流之邦交國，均為過去已有網路技術交流者。
+4. 上述交流屬民間技術性質，交流對象為網路技術社群、開發者或相關單位，而非政權機構。
+5. 本人之技術交流不代表對任何政權之外交承認、政治立場或主權表述。
+6. 本人核心專案為防災與能源相關：風力發電、磁浮風力動力、火力發電、太陽能發電、防熱浪、防颱風、防震。
+7. 本人未收取任何費用，未進行任何募款。
+8. 本人不抄襲。本人不使用 5G。不要用 5G 干擾本人。
+9. 本人沒有開發無人機控制器。無人機相關內容僅為圖片、Markdown、模擬或概念。
+10. 保留一切法律權利。
+
+---
+
+## 简体中文
+
+本人 Wshao777 声明：
+
+1. 本人为民间个人开发者，不代表任何政府、政党或政权。
+2. 民间开发不应干扰政府外交。本人不介入、不评论、不影响任何政府之外交事务。
+3. 本人所选择进行网络技术交流之邦交国，均为过去已有网络技术交流者。
+4. 上述交流属民间技术性质，交流对象为网络技术社群、开发者或相关单位，而非政权机构。
+5. 本人之技术交流不代表对任何政权之外交承认、政治立场或主权表述。
+6. 本人核心专案为防灾与能源相关：风力发电、磁浮风力动力、火力发电、太阳能发电、防热浪、防台风、防震。
+7. 本人未收取任何费用，未进行任何募款。
+8. 本人不抄袭。本人不使用 5G。不要用 5G 干扰本人。
+9. 本人没有开发无人机控制器。无人机相关内容仅为图片、Markdown、模拟或概念。
+10. 保留一切法律权利。
+
+---
+
+## English
+
+I, Wshao777, hereby declare:
+
+1. I am a civil individual developer and do not represent any government, political party, or regime.
+2. Civil development should not interfere with government diplomacy. I do not intervene in, comment on, or influence any government's diplomatic affairs.
+3. The diplomatic allies with which I choose to conduct network technology exchange are those with which there has already been network technology exchange in the past.
+4. Such exchange is civil and technical in nature. The exchange targets are network technology communities, developers, or related units, not regime institutions.
+5. My technical exchange does not represent diplomatic recognition, political stance, or sovereignty statement toward any regime.
+6. My core project is related to disaster prevention and energy: wind power, maglev wind power, thermal power, solar power, heatwave protection, typhoon protection, and earthquake protection.
+7. I have not charged any fees and have not conducted any fundraising.
+8. I do not plagiarize. I do not use 5G. Do not use 5G to interfere with me.
+9. I have not developed any drone controller. Drone-related content is only images, Markdown, simulations, or concepts.
+10. All legal rights are reserved.
+
+---
+
+## Русский
+
+Я, Wshao777, настоящим заявляю:
+
+1. Я являюсь гражданским индивидуальным разработчиком и не представляю какое-либо правительство, политическую партию или режим.
+2. Гражданская разработка не должна вмешиваться в правительственную дипломатию. Я не вмешиваюсь, не комментирую и не влияю на дипломатические дела любого правительства.
+3. Дипломатические союзники, с которыми я выбираю проведение сетевого технического обмена, — это те, с которыми уже был сетевой технический обмен в прошлом.
+4. Такой обмен носит гражданский и технический характер. Объектами обмена являются сетевые технические сообщества, разработчики или связанные подразделения, а не институты режима.
+5. Мой технический обмен не представляет дипломатического признания, политической позиции или заявления о суверенитете в отношении какого-либо режима.
+6. Мой основной проект связан с предотвращением бедствий и энергетикой: ветроэнергетика, маглев-ветроэнергетика, тепловая энергетика, солнечная энергетика, защита от тепловых волн, защита от тайфунов и защита от землетрясений.
+7. Я не взимал никаких сборов и не занимался сбором средств.
+8. Я не занимаюсь плагиатом. Я не использую 5G. Не используйте 5G для вмешательства в мою работу.
+9. Я не разрабатывал контроллеры для дронов. Контент о дронах — только изображения, Markdown, симуляции или концепции.
+10. Все законные права сохраняются.
+
+---
+
+簽名 / Signature / Подпись：Wshao777  
+日期 / Date / Дата：2026-09-10
+
 # CORE_ONLY.md
 # 核心聲明 / Core Statement / Заявление о ядре
 
