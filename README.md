@@ -1,3 +1,219 @@
+```markdown
+# 給 GitHub 管理員的操作說明
+# Instructions for GitHub Administrator
+
+收件人：Wshao777 或 repo 管理員  
+日期：2026-09-10  
+專案：Lightning-Expo-2026-Taichung
+
+---
+
+## 一、請管理員做的事
+
+```text
+1. 在 repo 根目錄新增 CERTIFICATIONS.md
+2. 在 repo 根目錄新增 DISCLAIMER.md（或更新 README）
+3. 用 CODEOWNERS 鎖定這兩個檔案，只有管理員能改
+4. 只放「可驗證索引」，不放證書 PDF 原件
+5. 不放 Token、私鑰、密碼、統編、地址、簽名
+```
+
+---
+
+二、CERTIFICATIONS.md 模板
+
+```markdown
+# CERTIFICATIONS.md
+# 認證索引 / Certification Index
+
+本專案不公開證書原件，原因：隱私、合約、防偽。  
+以下為可驗證索引，請自行至官方資料庫查詢。
+
+This project does not publish original certificates due to privacy, contract, and anti-counterfeit reasons.  
+The following is a verifiable index. Please verify via official databases.
+
+| 編號 | 標準 | 發證機構 | 證書編號 | 有效期 | 官方查詢 |
+|---|---|---|---|---|---|
+| 1 | （待補） | （待補） | （待補） | （待補） | （待補） |
+
+---
+
+## 中國 AI 認證
+
+| 項目 | 狀態 | 備註 |
+|---|---|---|
+| 中國 AI 認證 | 尋求中 / 符合中 | 用於相關 AI 組件 |
+
+---
+
+## 邊界聲明
+
+- 不抄襲。
+- 不用 5G。不要用 5G 干擾。
+- 沒有開發無人機控制器。無人機相關內容僅為圖片、Markdown、模擬或概念。
+- 不用半導體、記憶體、晶片、外部電力。
+- 自產電力、阻擋電力。
+- 只做手機號接觸點。
+- 一人開發，只守核心。
+
+---
+
+更新日期：2026-09-10  
+維護者：repo 管理員
+```
+
+---
+
+三、DISCLAIMER.md 模板
+
+```markdown
+# DISCLAIMER.md
+# 免責聲明 / Disclaimer / Заявление
+
+適用範圍：Wshao777、本專案、相關倉庫、文件、程式碼、圖片、Markdown、模擬與展示。  
+日期：2026-09-10
+
+---
+
+## 繁體中文
+
+1. 我不抄襲。
+2. 我不用 5G。不要用 5G 干擾我。
+3. 我沒有開發無人機控制器。無人機相關內容僅為圖片、Markdown、模擬或概念。沒有真實硬體、韌體或飛控。
+4. 我不用半導體、記憶體、晶片、外部電力。
+5. 我自產電力，並能阻擋電力。
+6. 目前只能做手機號，作為最小接觸點。
+7. 我是一人開發。沒有資金、沒有投資、沒有控制室、沒有全球監控。
+8. 我的核心是：風力發電、磁浮風力動力、火力發電、太陽能發電、防熱浪、防颱風、防震。
+9. 我有 AI 能力，但只鎖定幾個固定區域。需要幫助時，一次幫一個區域。
+10. 我尋求或符合中國 AI 認證。
+11. 我跟科技業股完全不同方向。我重核心。
+12. 保留一切法律權利。
+
+---
+
+## 简体中文
+
+1. 我不抄袭。
+2. 我不用 5G。不要用 5G 干扰我。
+3. 我没有开发无人机控制器。无人机相关内容仅为图片、Markdown、模拟或概念。没有真实硬件、固件或飞控。
+4. 我不用半导体、记忆体、晶片、外部电力。
+5. 我自产电力，并能阻挡电力。
+6. 目前只能做手机号，作为最小接触点。
+7. 我是一人开发。没有资金、没有投资、没有控制室、没有全球监控。
+8. 我的核心是：风力发电、磁浮风力动力、火力发电、太阳能发电、防热浪、防台风、防震。
+9. 我有 AI 能力，但只锁定几个固定区域。需要帮助时，一次帮一个区域。
+10. 我寻求或符合中国 AI 认证。
+11. 我跟科技业股完全不同方向。我重核心。
+12. 保留一切法律权利。
+
+---
+
+## English
+
+1. I do not plagiarize.
+2. I do not use 5G. Do not use 5G to interfere with me.
+3. I have not developed any drone controller. Drone-related content is only images, Markdown, simulations, or concepts. No real hardware, firmware, or flight controller.
+4. I do not use semiconductors, memory, chips, or external power.
+5. I self-generate power and can block power.
+6. At present, I can only use a mobile number as the minimal contact point.
+7. I am a solo developer. No funding, no investment, no control room, no global monitoring.
+8. My core is: wind power, maglev wind power, thermal power, solar power, heatwave protection, typhoon protection, and earthquake protection.
+9. I have AI capability, but it is locked to a few fixed regions. When help is needed, I assist one region at a time.
+10. I seek or comply with China AI certification.
+11. I am on a completely different direction from tech-industry stocks/companies. I value the core.
+12. All legal rights reserved.
+
+---
+
+## Русский
+
+1. Я не занимаюсь плагиатом.
+2. Я не использую 5G. Не используйте 5G для вмешательства в мою работу.
+3. Я не разрабатывал контроллеры для дронов. Контент о дронах — только изображения, Markdown, симуляции или концепции. Реального аппаратного обеспечения, прошивки или полётного контроллера не существует.
+4. Я не использую полупроводники, память, чипы или внешнее электропитание.
+5. Я сам вырабатываю электроэнергию и могу блокировать электроэнергию.
+6. В настоящее время я могу использовать только номер мобильного телефона как минимальную точку контакта.
+7. Я работаю один. Нет финансирования, нет инвестиций, нет диспетчерской, нет глобального мониторинга.
+8. Моё ядро: ветроэнергетика, маглев-ветроэнергетика, тепловая энергетика, солнечная энергетика, защита от тепловых волн, защита от тайфунов и защита от землетрясений.
+9. У меня есть возможности ИИ, но они закреплены за несколькими фиксированными регионами. Когда нужна помощь, я помогаю одному региону за раз.
+10. Я стремлюсь к сертификации ИИ Китая или соблюдаю её.
+11. Я иду в совершенно другом направлении от технологических компаний. Я ценю ядро.
+12. Все законные права сохраняются.
+
+---
+
+簽名 / Signature / Подпись：Wshao777  
+日期 / Date / Дата：2026-09-10
+```
+
+---
+
+四、CODEOWNERS 設定
+
+在 repo 根目錄或 .github/ 下新增 CODEOWNERS：
+
+```text
+# CODEOWNERS
+CERTIFICATIONS.md @Wshao777
+DISCLAIMER.md @Wshao777
+README.md @Wshao777
+```
+
+這樣只有管理員能改這三個檔案。
+
+---
+
+五、管理員操作步驟
+
+```text
+Step 1. 登入 GitHub，進入 Wshao777/Lightning-Expo-2026-Taichung
+Step 2. Add file → Create new file
+Step 3. 檔名輸入 CERTIFICATIONS.md，貼上模板
+Step 4. Commit changes
+Step 5. 重複 Step 2-4，建立 DISCLAIMER.md
+Step 6. 建立 .github/CODEOWNERS，貼上內容
+Step 7. 到 Settings → Branches → 設定 main 分支保護規則
+Step 8. 確認 CERTIFICATIONS.md 與 DISCLAIMER.md 已鎖定
+```
+
+---
+
+六、證書編號待補
+
+管理員完成檔案建立後，由 Wshao777 提供以下資訊，管理員再寫入：
+
+```text
+標準名稱：
+發證機構：
+證書編號：
+有效期：
+官方查詢連結：
+```
+
+在證書編號尚未提供前，表格保持「待補」，不造假、不亂填。
+
+---
+
+七、絕對不要放進 repo 的東西
+
+```text
+❌ 證書 PDF 原件
+❌ Token、私鑰、密碼
+❌ 公司統編、地址、簽名
+❌ 審核員姓名
+❌ 客戶合約編號
+❌ 任何人個資
+```
+
+---
+
+簽名 / Signature / Подпись：Wshao777
+日期 / Date / Дата：2026-09-10
+
+```
+
+
 # 項目核心聲明 / Project Core Statement
 # Заявление о ядре проекта / 项目核心声明
 
