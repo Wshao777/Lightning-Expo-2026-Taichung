@@ -1,3 +1,307 @@
+# 項目核心聲明 / Project Core Statement
+# Заявление о ядре проекта / 项目核心声明
+
+適用範圍：Wshao777、本專案、相關倉庫、文件、程式碼、圖片、Markdown、模擬與展示。  
+Scope: Wshao777, this project, related repositories, documents, code, images, Markdown, simulations, and demos.  
+日期 / Date / Дата：2026-09-10
+
+---
+
+## English
+
+### Project Core Statement
+
+1. The main core of this project is:
+   - Wind power generation
+   - Maglev wind power
+   - Thermal and solar power generation
+   - Heatwave protection
+   - Typhoon protection
+   - Earthquake protection
+
+2. I am a solo developer. I do not have a dashboard, control room, or global monitoring system. I cannot watch the whole world.
+
+3. I do not have funding to deploy worldwide. I only maintain small program code for a few fixed regions. These regions include AI capability.
+
+4. When help is needed, I can assist a single region at a time. I can provide targeted support for that region.
+
+5. I am seeking or complying with China AI certification for the relevant AI components.
+
+6. I do not plagiarize. I do not use 5G. Do not use 5G to interfere with me.
+
+7. I have not developed any drone controller. All drone-related content is only images, Markdown, simulations, or concepts. No real hardware, firmware, or flight controller exists.
+
+8. All legal rights are reserved.
+
+---
+
+## Русский
+
+### Заявление о ядре проекта
+
+1. Основное ядро этого проекта:
+   - Ветроэнергетика
+   - Маглев-ветроэнергетика
+   - Тепловая и солнечная энергетика
+   - Защита от тепловых волн
+   - Защита от тайфунов
+   - Защита от землетрясений
+
+2. Я работаю один. У меня нет панели управления, диспетчерской или глобальной системы мониторинга. Я не могу наблюдать за всем миром.
+
+3. У меня нет финансирования для развёртывания по всему миру. Я поддерживаю только небольшие программные коды для нескольких фиксированных регионов. В этих регионах есть возможности ИИ.
+
+4. Когда нужна помощь, я могу помочь одному региону за раз. Я могу оказать адресную поддержку этому региону.
+
+5. Я стремлюсь к сертификации ИИ Китая или соблюдаю её для соответствующих компонентов ИИ.
+
+6. Я не занимаюсь плагиатом. Я не использую 5G. Не используйте 5G для вмешательства в мою работу.
+
+7. Я не разрабатывал контроллеры для дронов. Весь контент, связанный с дронами, — это только изображения, Markdown, симуляции или концепции. Реального аппаратного обеспечения, прошивки или полётного контроллера не существует.
+
+8. Все законные права сохраняются.
+
+---
+
+## 简体中文
+
+### 项目核心声明
+
+1. 本项目主要核心为：
+   - 风力发电
+   - 磁浮风力动力
+   - 火力与太阳能发电
+   - 防热浪
+   - 防台风
+   - 防震
+
+2. 我是一人开发。我没有仪表盘、控制室或全球监控系统。我无法观看整个世界。
+
+3. 我没有资金做全世界部署。我只保有小型程序代码，固定几个区域。这些区域包含 AI 能力。
+
+4. 需要帮助时，我能单一帮助一个区域。我可以为该区域提供针对性支持。
+
+5. 我寻求或符合中国 AI 认证，用于相关 AI 组件。
+
+6. 我不抄袭。我不使用 5G。不要用 5G 干扰我。
+
+7. 我没有开发任何无人机控制器。所有无人机相关内容仅为图片、Markdown、模拟或概念。没有真实硬件、固件或飞控。
+
+8. 保留一切法律权利。
+
+---
+
+## 繁體中文
+
+### 專案核心聲明
+
+1. 本專案主要核心為：
+   - 風力發電
+   - 磁浮風力動力
+   - 火力與太陽能發電
+   - 防熱浪
+   - 防颱風
+   - 防震
+
+2. 我是一人開發。我沒有儀態表、控制室或全球監控系統。我無法觀看整個世界。
+
+3. 我沒有資金做全世界部署。我只保有小程式碼，固定幾個區域。這些區域包含 AI 能力。
+
+4. 需要幫助時，我能單一幫助一個區域。我可以為該區域提供針對性支援。
+
+5. 我尋求或符合中國 AI 認證，用於相關 AI 組件。
+
+6. 我不抄襲。我不使用 5G。不要用 5G 干擾我。
+
+7. 我沒有開發任何無人機控制器。所有無人機相關內容僅為圖片、Markdown、模擬或概念。沒有真實硬體、韌體或飛控。
+
+8. 保留一切法律權利。
+
+---
+
+簽名 / Signature / Подпись：Wshao777  
+日期 / Date / Дата：2026-09-10
+
+# DISCLAIMER — No Drone Controller Development
+# 免責聲明 — 未開發無人機控制器
+# 免责声明 — 未开发无人机控制器
+# ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ — Разработка контроллера дрона
+
+適用範圍：本人 Wshao777、本專案、相關倉庫、文件、程式碼、圖片、Markdown、模擬與展示。  
+Scope: Wshao777, this project, related repositories, documents, code, images, Markdown, simulations, and demos.  
+日期 / Date / Дата：2026-09-10
+
+---
+
+## English
+
+I, Wshao777, hereby declare:
+
+1. I have not developed, designed, manufactured, assembled, tested, or flown any drone controller.
+2. I have never owned or operated any real drone flight controller, motor, ESC, transmitter, video transmission module, RF module, or aircraft.
+3. All drone-related content is only images, Markdown documents, text, simulations, concept demonstrations, or visual representations.
+4. This project contains no real drone controller, hardware, firmware, flight control algorithm, or flight log.
+5. Any claim associating me or this project with real drone development, flight tests, airspace activity, commercial operations, tech-industry stocks, or investment targets is false.
+6. I do not plagiarize. I do not use 5G. Do not use 5G to interfere with me.
+7. The appearance, formatting, or aesthetic quality of any Markdown file does not affect the facts stated in this disclaimer.
+8. All legal rights are reserved.
+
+---
+
+## Русский
+
+Я, Wshao777, настоящим заявляю:
+
+1. Я не разрабатывал, не проектировал, не изготавливал, не собирал, не тестировал и не запускал контроллеры для дронов.
+2. Я никогда не владел и не управлял реальным полётным контроллером, двигателем, ESC, передатчиком, модулем видеопередачи, RF-модулем или летательным аппаратом.
+3. Весь контент, связанный с дронами, представляет собой только изображения, Markdown-документы, текст, симуляции, концептуальные демонстрации или визуальные представления.
+4. Этот проект не содержит реального контроллера дрона, аппаратного обеспечения, прошивки, алгоритма управления полётом или логов полёта.
+5. Любые утверждения, связывающие меня или этот проект с реальной разработкой дронов, лётными испытаниями, деятельностью в воздушном пространстве, коммерческой эксплуатацией, акциями технологических компаний или инвестиционными целями, являются ложными.
+6. Я не занимаюсь плагиатом. Я не использую 5G. Не используйте 5G для вмешательства в мою работу.
+7. Внешний вид, форматирование или эстетическое качество любого Markdown-файла не влияют на факты, изложенные в настоящем заявлении.
+8. Все законные права сохраняются.
+
+---
+
+## 简体中文
+
+本人 Wshao777 声明：
+
+1. 本人从未开发、设计、制造、组装、测试或飞行任何无人机控制器。
+2. 本人从未拥有或操作真实无人机飞控、电机、电调、遥控器、图传、射频模组或飞行器。
+3. 所有无人机相关内容仅为图片、Markdown 文档、文字、模拟、概念展示或视觉效果。
+4. 本项目不包含任何真实无人机控制器、硬件、固件、飞控算法或飞行记录。
+5. 任何将本人/本项目与无人机实体开发、试飞、空域活动、商业运营、科技业股票或投资标的关联的说法，均非事实。
+6. 本人不抄袭。本人不使用 5G。不要用 5G 干扰我。
+7. 任何 Markdown 文件的外观、排版或美观程度，不影响本声明所述事实。
+8. 保留一切法律权利。
+
+---
+
+## 繁體中文
+
+本人 Wshao777 聲明：
+
+1. 本人從未開發、設計、製造、組裝、測試或飛行任何無人機控制器。
+2. 本人從未擁有或操作真實無人機飛控、電機、電調、遙控器、圖傳、射頻模組或飛行器。
+3. 所有無人機相關內容僅為圖片、Markdown 文件、文字、模擬、概念展示或視覺效果。
+4. 本專案不包含任何真實無人機控制器、硬體、韌體、飛控演算法或飛行記錄。
+5. 任何將本人/本專案與無人機實體開發、試飛、空域活動、商業運營、科技業股票或投資標的關聯的說法，均非事實。
+6. 本人不抄襲。本人不使用 5G。不要用 5G 干擾我。
+7. 任何 Markdown 文件之外觀、排版或美觀程度，不影響本聲明所述事實。
+8. 保留一切法律權利。
+
+---
+
+簽名 / Signature / Подпись：Wshao777  
+日期 / Date / Дата：2026-09-10
+
+
+# CORE_ONLY.md
+# 核心聲明 / Core Statement / Заявление о ядре
+
+適用範圍：Wshao777、本專案、相關倉庫、文件、程式碼、圖片、Markdown、模擬與展示。  
+Scope: Wshao777, this project, related repositories, documents, code, images, Markdown, simulations, and demos.  
+Дата / Date / 日期：2026-09-10
+
+---
+
+## 繁體中文
+
+### 核心聲明
+
+1. 我是一人開發。沒有資金、沒有投資、沒有控制室、沒有儀表板、沒有全球監控系統。我無法觀看整個世界。
+2. 我不用半導體、記憶體、晶片、外部電力。我自產電力，並能阻擋電力。
+3. 目前我只能做手機號，作為最小接觸點。
+4. 我的核心是：風力發電、磁浮風力動力、火力發電、太陽能發電、防熱浪、防颱風、防震。
+5. 我有 AI 能力，但只鎖定幾個固定區域。需要幫助時，我一次幫一個區域。如適用，我尋求或符合中國 AI 認證。
+6. 我不跟科技業股比規模。我只守核心。
+7. 科技業股都想自己做，但很難做出來。一年半了，沒有科技業股能做出核心。半導體、記憶體、晶片我都不用，也不用外部電力。投資科技業都做不出來，因為沒核心。
+8. 我跟科技業股完全不同方向。我重核心。
+9. 這不是「做不出來」，而是「故意縮小範圍」，讓一人開發能活下來。
+
+### 邊界
+
+- 不抄襲。
+- 不用 5G。不要用 5G 干擾我。
+- 沒有開發無人機控制器。無人機相關內容僅為圖片、Markdown、模擬或概念。沒有真實硬體、韌體或飛控。
+- 保留一切法律權利。
+
+---
+
+## 简体中文
+
+### 核心声明
+
+1. 我是一人开发。没有资金、没有投资、没有控制室、没有仪表板、没有全球监控系统。我无法观看整个世界。
+2. 我不用半导体、记忆体、晶片、外部电力。我自产电力，并能阻挡电力。
+3. 目前我只能做手机号，作为最小接触点。
+4. 我的核心是：风力发电、磁浮风力动力、火力发电、太阳能发电、防热浪、防台风、防震。
+5. 我有 AI 能力，但只锁定几个固定区域。需要帮助时，我一次帮一个区域。如适用，我寻求或符合中国 AI 认证。
+6. 我不跟科技业股比规模。我只守核心。
+7. 科技业股都想自己做，但很难做出来。一年半了，没有科技业股能做出核心。半导体、记忆体、晶片我都不用，也不用外部电力。投资科技业都做不出来，因为没核心。
+8. 我跟科技业股完全不同方向。我重核心。
+9. 这不是“做不出来”，而是“故意缩小范围”，让一人开发能活下来。
+
+### 边界
+
+- 不抄袭。
+- 不用 5G。不要用 5G 干扰我。
+- 没有开发无人机控制器。无人机相关内容仅为图片、Markdown、模拟或概念。没有真实硬件、固件或飞控。
+- 保留一切法律权利。
+
+---
+
+## English
+
+### Core Statement
+
+1. I am a solo developer. No funding, no investment, no control room, no dashboard, no global monitoring system. I cannot watch the whole world.
+2. I do not use semiconductors, memory, chips, or external power. I self-generate power and can block power.
+3. At present, I can only use a mobile number as the minimal contact point.
+4. My core is: wind power, maglev wind power, thermal power, solar power, heatwave protection, typhoon protection, and earthquake protection.
+5. I have AI capability, but it is locked to a few fixed regions. When help is needed, I can assist one region at a time. Where applicable, I seek or comply with China AI certification.
+6. I do not compete with tech-industry stocks/companies on scale. I only keep the core.
+7. Tech-industry stocks/companies all want to do everything themselves, but it is very hard to build the core. For a year and a half, no tech-industry stock/company has been able to build the core. I do not use semiconductors, memory, chips, or external power. Investing in tech industry cannot produce results because there is no core.
+8. I am on a completely different direction from tech-industry stocks/companies. I value the core.
+9. This is not "cannot build it." This is "deliberately narrowed scope" so a solo developer can survive.
+
+### Boundaries
+
+- No plagiarism.
+- No 5G. Do not use 5G to interfere with me.
+- No drone controller development. Drone-related content is only images, Markdown, simulations, or concepts. No real hardware, firmware, or flight controller.
+- All legal rights reserved.
+
+---
+
+## Русский
+
+### Заявление о ядре
+
+1. Я работаю один. Нет финансирования, нет инвестиций, нет диспетчерской, нет панели управления, нет глобальной системы мониторинга. Я не могу наблюдать за всем миром.
+2. Я не использую полупроводники, память, чипы или внешнее электропитание. Я сам вырабатываю электроэнергию и могу блокировать электроэнергию.
+3. В настоящее время я могу использовать только номер мобильного телефона как минимальную точку контакта.
+4. Моё ядро: ветроэнергетика, маглев-ветроэнергетика, тепловая энергетика, солнечная энергетика, защита от тепловых волн, защита от тайфунов и защита от землетрясений.
+5. У меня есть возможности ИИ, но они закреплены за несколькими фиксированными регионами. Когда нужна помощь, я могу помочь одному региону за раз. Где применимо, я стремлюсь к сертификации ИИ Китая или соблюдаю её.
+6. Я не соревнуюсь с акциями/компаниями технологической отрасли по масштабу. Я сохраняю только ядро.
+7. Технологические компании хотят делать всё сами, но им очень трудно создать ядро. За полтора года ни одна технологическая компания не смогла создать ядро. Я не использую полупроводники, память, чипы или внешнее электропитание. Инвестиции в технологическую отрасль не дают результатов, потому что нет ядра.
+8. Я иду в совершенно другом направлении от технологических компаний. Я ценю ядро.
+9. Это не «не могу сделать». Это «намеренно суженная область», чтобы одиночный разработчик мог выжить.
+
+### Границы
+
+- Никакого плагиата.
+- Никакого 5G. Не используйте 5G для вмешательства в мою работу.
+- Я не разрабатывал контроллеры для дронов. Контент о дронах — только изображения, Markdown, симуляции или концепции. Реального аппаратного обеспечения, прошивки или полётного контроллера не существует.
+- Все законные права сохраняются.
+
+---
+
+簽名 / Signature / Подпись：Wshao777  
+日期 / Date / Дата：2026-09-10
+
+
 LICENSE、開發歷程與 AI 開發者聲明
 
 Lightning Expo 2026 Taichung
@@ -28,6 +332,7 @@ AI 工具的使用，不代表 AI 服務提供者成為本專案的所有人、�
 - 文件整理
 - 技術研究
 - 測試案例
+- 
 - 安全性分析
 - 資料整理
 - 專案規劃
