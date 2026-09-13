@@ -1,0 +1,43 @@
+name: OPER 自動化發布
+
+on:
+  schedule:
+    - cron: '0 2 * * *'    # 每天 UTC 02:00（台灣 10:00）
+  workflow_dispatch:
+    inputs:
+      md_file:
+        description: 'Markdown 檔案路徑'
+        required: false
+        default: 'docs/最新貼文.md'
+      topic:
+        description: 'AI 生成主題'
+        required: false
+        default: 'OPER 技術自主與防災能源'
+
+jobs:
+  auto_post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests python-dotenv openai facebook-business
+
+      - name: 執行自動發布
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+          FB_APP_ID: ${{ secrets.FB_APP_ID }}
+          FB_APP_SECRET: ${{ secrets.FB_APP_SECRET }}
+          FB_ACCESS_TOKEN: ${{ secrets.FB_ACCESS_TOKEN }}
+          FB_AD_ACCOUNT_ID: ${{ secrets.FB_AD_ACCOUNT_ID }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          MD_FILE: ${{ github.event.inputs.md_file }}
+          POST_TOPIC: ${{ github.event.inputs.topic }}
+        run: python main.py
