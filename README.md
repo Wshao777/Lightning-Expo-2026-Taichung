@@ -209,6 +209,7 @@ flowchart TD
 
 ---
 
+
 ## 繁體中文
 
 本人 Wshao777 聲明：
@@ -241,7 +242,161 @@ flowchart TD
 9. 本人没有开发无人机控制器。无人机相关内容仅为图片、Markdown、模拟或概念。
 10. 保留一切法律权利。
 
+---OPER-PY3 × OPER AI
+
+AI 開發入口與內容自動化架構
+
+«OPER-PY3 是 AI 開發與自動化核心。
+
+本頁是公開的「開發入口與架構文件」，不公開核心程式碼、API 金鑰、Token、私人資料或本機執行環境。»
+
 ---
+
+🔗 官方入口
+
+OPER-PY3
+
+"OPER-PY3 GitHub Repository" (https://reference-url-citation.invalid/0)
+
+OPER-PY3 負責：
+
+- OPER Core
+- OPER AI
+- Bot / Task Automation
+- AI 內容處理
+- Markdown 內容橋接
+- Meta / Facebook 官方 API 串接介面
+- 本機與私有部署
+
+---
+
+Lightning Expo 2026 Taichung
+
+"Lightning-Expo-2026-Taichung" (https://reference-url-citation.invalid/1)
+
+此專案可以作為公開內容來源之一。
+
+內容流程：
+
+Lightning Expo
+      ↓
+Markdown
+      ↓
+OPER AI
+      ↓
+內容整理 / 摘要 / 文案
+      ↓
+人工確認
+      ↓
+Meta 官方 API
+      ↓
+Facebook Page
+
+---
+
+Meta for Developers
+
+"Meta for Developers" (https://reference-url-citation.invalid/2)
+
+Meta 官方平台負責：
+
+- Facebook / Meta API
+- Page API
+- OAuth / Access Token
+- 官方發布介面
+- 官方資料與權限規範
+
+OPER-PY3 不繞過 Meta 安全機制。
+
+---
+
+📌 Facebook 內容入口
+
+"Facebook 貼文入口" (https://reference-url-citation.invalid/3)
+
+此連結屬於外部社群內容入口。
+
+OPER AI 可以協助：
+
+原始內容
+↓
+內容理解
+↓
+技術摘要
+↓
+社群文案
+↓
+Hashtag
+↓
+發布前檢查
+↓
+人工確認
+↓
+官方 API
+
+---
+
+🧠 OPER AI 開發模式
+
+OPER AI 的設計原則不是讓 AI 隨意修改整個電腦。
+
+AI 必須受到專案規則限制。
+
+使用者
+  │
+  ▼
+OPER AI
+  │
+  ├── 讀取允許的專案文件
+  │
+  ├── 分析 Markdown
+  │
+  ├── 建立內容草稿
+  │
+  ├── 建立文件
+  │
+  └── 提出程式修改
+          │
+          ▼
+     人工 / 開發者確認
+          │
+          ▼
+       寫入專案
+
+---
+根據你的要求，這裡直接提供能生成流程圖的 Mermaid 程式碼。你可以將這些程式碼區塊複製到 GitHub 的 README.md 檔案中，GitHub 會自動渲染成視覺化圖表。
+
+# ⚡ JPG → OPER AI 演練
+
+![演練圖片](./{{JPG_NAME}})
+
+## 🧠 AI 視覺理解
+
+根據上方 JPG 圖片進行視覺理解與資訊整理。
+
+## 📌 演練重點
+
+- 圖片來源：`{{JPG_NAME}}`
+- 輸入類型：JPG
+- 輸出格式：Markdown
+- 文件名稱：`{{MD_NAME}}`
+- 圖片狀態：已嵌入
+- 演練狀態：完成
+- 公開狀態：可展示
+
+## ⚡ 演練結果
+
+圖片內容經 AI 整理後，形成可閱讀、可追蹤的 Markdown 演練文件。
+
+## 🤖 OPER AI
+
+JPG → AI 視覺理解 → 演練 → 同名 MD → GitHub 圖片展示
+
+## 🔗 專案
+
+- OPER-PY3
+- Lightning-Expo-2026-Taichung
+- 
 
 ## English
 
