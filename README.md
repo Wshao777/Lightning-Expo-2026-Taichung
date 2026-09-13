@@ -1,62 +1,211 @@
-OPER AI 技術與合作範圍聲明
+2026年台中閃電博覽會_README.md
+📌 1. OPER AI 技術與合作範圍聲明 (Mermaid Mindmap)
 
-開發者：Wshao777
-專案：OPER AI / OPER Core
+```mermaid
+mindmap
+  root((OPER AI<br/>技術與合作範圍))
+    開發者
+      Wshao777
+      保留最終授權決定權
+    允許領域
+      人工智慧
+      軟體工程
+      自動化
+      能源效率
+      綠能
+      研究
+    禁止用途
+      政府科技執法
+      自動開單與裁罰
+      AI判定人民處罰
+      大規模人民監控
+      未授權資料蒐集
+      作為處罰決策核心
+    核心定位
+      技術工具
+      自主開發系統
+      Private
+      Sovereign
+      不繞過安全機制
+```
 
-本人 Wshao777 特此公開聲明：
+📌 2. 民間技術交流邊界聲明 (Mermaid Mindmap)
 
-OPER AI、OPER Core 及本人所開發之相關程式庫，不接受、不承接、不授權用於政府科技執法、罰款、處罰、人民監控或自動裁罰等項目。
+```mermaid
+mindmap
+  root((民間技術交流<br/>邊界聲明))
+    開發者身分
+      民間個人開發者
+      不代表任何政府
+      不介入外交事務
+    交流性質
+      民間技術交流
+      對象為技術社群
+      非政權機構
+      不代表外交承認
+    核心專案
+      風力發電
+      磁浮風力動力
+      火力發電
+      太陽能發電
+      防熱浪
+      防颱風
+      防震
+    行為準則
+      未收取費用
+      未進行募款
+      不抄襲
+      不使用5G
+      無人機僅為概念
+```
 
-OPER 不提供以下用途的技術整合：
+📌 3. 工作與因果聲明 (Mermaid Mindmap)
 
-- 政府自動執法系統
-- 自動開立罰單或裁罰
-- 以 AI 判定人民是否應受處罰
-- 大規模人民監控或追蹤
-- 未經授權的個人資料蒐集
-- 以 OPER Core 作為政府處罰或監控工具
-- 任何將 OPER AI 作為自動處罰決策核心的系統
+```mermaid
+mindmap
+  root((工作與因果<br/>聲明))
+    個人狀態
+      需正常工作
+      不常關注災難
+      相信因果
+    資源限制
+      一人開發
+      無資金
+      無投資
+      無控制室
+      無全球監控
+    核心目標
+      防災與能源
+      維持正常工作
+      維持核心開發
+    行為準則
+      從未攻擊任何目標
+      未收取費用
+      未進行募款
+      不抄襲
+      不使用5G
+```
 
-OPER AI 的定位是技術工具與自主開發系統，而不是政府執法或處罰機器。
+📌 4. OPER-PY3 專案目錄結構 (Mermaid 樹狀圖)
 
-任何第三方，包括政府機關、企業、研究團隊或其他組織，如欲使用 OPER 技術，都不得在未取得本人明確授權的情況下，將 OPER Core 用於上述用途。
+你之前用純文字列出了目錄結構，這裡直接轉成 Mermaid 流程圖：
 
-OPER Core 的控制權屬於開發者。
+```mermaid
+flowchart TD
+    ROOT[OPER-PY3] --> FB[fb/]
+    ROOT --> AI[ai/]
+    ROOT --> DOCS[docs/]
 
-可以合作，不代表可以取得核心。
-可以接入，不代表可以取得所有權。
-可以研究，不代表可以任意修改或重新授權。
+    FB --> F1[__init__.py]
+    FB --> F2[publisher.py]
+    FB --> F3[analytics.py]
+    FB --> F4[content_bridge.py]
+    FB --> F5[README.md]
 
-本人保留對 OPER Core、程式庫、架構與相關技術成果的最終授權決定權。
+    AI --> A1[oper_ai.py]
+    AI --> A2[prompts.py]
 
-OPER AI 未來可以投入人工智慧、軟體工程、自動化、能源效率、綠能、研究與其他有助於人類技術發展的領域；但本人不希望自己的核心技術被轉化為對人民進行自動化處罰或監控的工具。
+    DOCS --> D1[FB_AI_AUTOMATION.md]
+    DOCS --> D2[CIVIL_TECH_EXCHANGE_STATEMENT.md]
+    DOCS --> D3[WORK_CAUSALITY_STATEMENT.md]
+```
 
-OPER AI：
+📊 1. 核心自動化串聯架構圖
 
-Private. Sovereign. Controlled by Wshao777.
+這張圖展示了從內容源到 Facebook 發布的完整資料流向。
 
-本聲明旨在明確界定 OPER AI 的技術用途與授權範圍。
-OPER-PY3/
-├── fb/
-│   ├── __init__.py
-│   ├── publisher.py
-│   ├── analytics.py
-│   ├── content_bridge.py
-│   └── README.md
-│
-├── ai/
-│   ├── oper_ai.py
-│   └── prompts.py
-│
-└── docs/
-    └── FB_AI_AUTOMATION.md
-    
-# CIVIL_TECH_EXCHANGE_STATEMENT.md
-# 民間技術交流邊界聲明 / Civil Tech Exchange Boundary Statement
-# Заявление о границах гражданского технического обмена
+```mermaid
+flowchart TD
+    A[Lightning-Expo-2026-Taichung<br>Markdown 內容源] --> B[OPER-PY3 / fb / content_bridge.py]
+    B --> C{AI 內容生成模組}
+    C -->|有 API Key| D[OpenAI / Claude API]
+    C -->|無 API Key| E[本地 Markdown 轉換]
+    D --> F[生成貼文內容]
+    E --> F
+    F --> G[fb/publisher.py]
+    G --> H[Meta Graph API]
+    H --> I[發布至 Facebook 粉絲專頁]
+    I --> J[fb/analytics.py<br>成效數據回收]
+    J --> K[儲存發布記錄與日誌]
+```
 
-適用範圍：Wshao777、本專案、相關倉庫、文件、程式碼、圖片、Markdown、模擬與展示。  
-日期 / Date / Дата：2026-09-10
+⚙️ 2. GitHub Actions 自動化流程圖
+
+這張圖說明了 GitHub Actions 工作流程的觸發與執行步驟。
+
+```mermaid
+sequenceDiagram
+    participant GH as GitHub Actions
+    participant PY as OPER-PY3 Python
+    participant AI as AI 服務
+    participant FB as Meta Graph API
+
+    Note over GH: 觸發條件: Cron 排程 或<br>Workflow Dispatch
+    GH->>PY: 啟動 main.py
+    PY->>PY: 讀取 Markdown 檔案
+    PY->>AI: 呼叫 API 生成文案
+    AI-->>PY: 返回生成內容
+    PY->>FB: POST /{page_id}/feed
+    FB-->>PY: 返回貼文 ID
+    PY->>FB: GET /{post_id}/insights
+    FB-->>PY: 返回互動數據
+    PY->>PY: 儲存發布記錄
+```
+
+📢 3. 廣告投放管理流程圖
+
+這張圖展示了如何使用 Marketing API 建立與管理廣告活動。
+
+```mermaid
+flowchart LR
+    A[fb/ad_manager.py] --> B[FacebookAdsApi.init]
+    B --> C[AdAccount<br>act_xxxxxxxx]
+    C --> D[create_campaign<br>objective: OUTCOME_TRAFFIC<br>status: PAUSED]
+    D --> E[廣告活動建立成功]
+    E --> F[人工審核確認]
+    F -->|確認啟動| G[更新狀態為 ACTIVE]
+    F -->|拒絕| H[保持 PAUSED 或刪除]
+```
+
+📁 4. 專案檔案結構圖
+
+這張圖呈現了 OPER-PY3 專案的目錄結構。
+
+```mermaid
+flowchart TD
+    ROOT[OPER-PY3 根目錄]
+    ROOT --> GH[.github/workflows]
+    ROOT --> FB[fb/]
+    ROOT --> AI[ai/]
+    ROOT --> DOCS[docs/]
+    ROOT --> MAIN[main.py]
+    ROOT --> REQ[requirements.txt]
+    ROOT --> ENV[.env.example]
+    ROOT --> GIT[.gitignore]
+
+    GH --> YML[auto_post.yml]
+    FB --> PUB[publisher.py]
+    FB --> BRIDGE[content_bridge.py]
+    FB --> AD[ad_manager.py]
+    FB --> ANA[analytics.py]
+    AI --> GEN[content_generator.py]
+```
+
+🔑 5. Page Access Token 獲取流程圖
+
+這張圖說明了如何從 Meta 開發者平台取得長期 Page Token。
+
+```mermaid
+flowchart TD
+    A[前往 Meta for Developers] --> B[建立應用程式]
+    B --> C[Graph API Explorer]
+    C --> D[勾選權限:<br>pages_manage_posts<br>pages_read_engagement<br>pages_show_list<br>business_management]
+    D --> E[Generate Access Token<br>取得短期權杖]
+    E --> F[透過 fb_exchange_token<br>換取長期 User Token]
+    F --> G[呼叫 /me/accounts<br>取得長期 Page Token]
+    G --> H[存入 GitHub Secrets 或 .env]
+```
+
 
 ---
 
